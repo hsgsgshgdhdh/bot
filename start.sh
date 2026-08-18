@@ -1,2 +1,2 @@
 #!/bin/sh
-python booooo.py
+python3 booooo.py
